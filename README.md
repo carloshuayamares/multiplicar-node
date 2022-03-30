@@ -13,7 +13,7 @@ Para crear cualquier tabla usaremos este comando:
 node app.js crear -b ${base} -l ${tamaño de la lista}
 ```
 
-Para crear imprimir en consola cualquier tabla usaremos este comando:
+Para imprimir en consola cualquier tabla usaremos este comando:
 
 ```
 node app.js listar -b ${base} -l ${tamaño de la lista}
